@@ -1,0 +1,10 @@
+{
+  "name": "demo4",
+  "description": "Gopher fun",
+  "memory": 1024,
+  "timeout": 20,
+  "role": "",
+  "environment": {
+    "S3_BUCKET": ""
+  }
+}
